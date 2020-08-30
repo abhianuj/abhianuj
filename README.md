@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Spring boot, HANA, UI5 and Cloud foundry**
 
-- 👨‍💻 All of my projects are available at [abhianuj.github.io](abhianuj.github.io)
-
-- 📝 I regulary write articles on [https://sad-mcnulty-ec07f9.netlify.app/](https://sad-mcnulty-ec07f9.netlify.app/)
+- 📝 I regulary write articles on [MyBlog](https://sad-mcnulty-ec07f9.netlify.app/)
 
 - 💬 Ask me about **UI5, Java, Spring boot, MongoDB**
 
