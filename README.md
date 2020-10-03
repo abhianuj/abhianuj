@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhijeet K</h1>
+<h1 align="center">Hi 👋, I'm Abhijeet</h1>
 <h3 align="center">My laptop is my best friend.</h3>
 
 - 🔭 I’m currently working on **UI5 and Spring boot**
