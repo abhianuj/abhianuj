@@ -7,7 +7,7 @@
 
 - 📝 I regulary write articles on [MyBlog](https://sad-mcnulty-ec07f9.netlify.app/)
 
-- 📄 Visit [Portfolio]("https://abhianuj.github.io")
+- 📄 Visit [Portfolio](https://abhianuj.github.io)
 
 - 💬 Ask me about **UI5, Java, Spring boot, js, MongoDB**
 
