@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring boot, UI5 and Cloud foundry**
 
-- 📄 Visit [Portfolio](https://abhianuj.github.io)
+- 📄 Visit my [Portfolio](https://abhianuj.github.io)
 
 - 📝 I regulary write articles on [MyBlog](https://sad-mcnulty-ec07f9.netlify.app/)
 
