@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **UI5 and Spring boot**
 
-- 🌱 I’m currently learning **Spring boot, HANA, UI5 and Cloud foundry**
+- 🌱 I’m currently learning **Spring boot, UI5 and Cloud foundry**
 
 - 📝 I regulary write articles on [MyBlog](https://sad-mcnulty-ec07f9.netlify.app/)
 
