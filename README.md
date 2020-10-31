@@ -5,7 +5,7 @@
 
 - 📄 Visit my [Portfolio](https://abhianuj.github.io)
 
-- 📝 I regulary write articles on [MyBlog](https://sad-mcnulty-ec07f9.netlify.app/)
+- 📝 I regulary write articles on [MyBlog](https://boringtech101.netlify.app/)
 
 - 💬 Ask me about **UI5, Java, Spring boot, js, MongoDB**
 
