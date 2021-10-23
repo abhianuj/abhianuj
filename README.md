@@ -11,4 +11,4 @@
 
 - 📫 How to reach me **abhi.anuj100@gmail.com**
 
-- ⚡ Fun fact **No Chai No Coffee**
+- ⚡ Fun fact **No Chai No Coffee, Only Sutta**
